@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Activities</string>
+    <string name="second_page">Second Page</string>
+    <string name="hello">Hello,&#160;</string>
+    <string name="first">First Name:&#160;</string>
+    <string name="last">Last Name:&#160;</string>
+    <string name="email">Email:&#160;</string>
+</resources>
